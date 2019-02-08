@@ -1,5 +1,5 @@
 # Machine-Leanring-From-Scratch
-Machine Learning different algorithms from scratch without any external libraries.
+The purpose of this repository is to practice the understandings of different algorithms and to help others understand what is the blackbox made of. 
 
 # Models:-
 # 1-Support Vector Machine 
