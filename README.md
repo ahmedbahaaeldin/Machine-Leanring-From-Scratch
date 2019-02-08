@@ -2,16 +2,22 @@
 Machine Learning different algorithms from scratch without any external libraries.
 
 # Models:-
-1-Support Vector Machine
+# 1-Support Vector Machine 
 
-2-Logitistic Regression (In progress)
+Tested on some random points as a proof of concept.
 
-3- K-Means (In progress)
+# 2-Logitistic Regression 
 
-4-Vanilla Neural Network (In progress)
+# 3- K-Means (In progress)
 
-5-Recurrent Neural Network (In progress)
+# 4-Vanilla Neural Network 
 
-6- Convolutional Neural Network (In progress)
+Vanilla Neural Network with Tanh activation function and Softmax with cross entropy for final layer.
+Tested on MNIST dataset with 3 hidden layers and the layers dimensions are : Layer 1 (784,128) - Layer 2 (128,128) - Layer 3 (128,10). 
+Achieved Testing accuracy : 80.61% with 2000 epochs
 
-7- Long Short Term Memory (In progress)
+# 5-Recurrent Neural Network (In progress)
+
+# 6- Convolutional Neural Network (In progress)
+
+# 7- Long Short Term Memory (In progress)
